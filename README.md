@@ -5,7 +5,7 @@
 
 
 
-### 2022年10月吉比特国庆高校赛
+### 2022年10月吉比特国庆高校赛《来封印魔王吧！》
 
 - ps：这是本人在学习unity一个月后团队合作的完成度很高的第一款游戏，负责怪物的逻辑和部分地图关卡搭建
 
@@ -29,13 +29,13 @@
 
   ​    勇者剥离自己的能力封印魔王，消耗自己的力量以拯救他人，最终以凡人之躯打败魔王，获得胜利。
 
-![](F:\GitHub_Project\SampleReels\Picture\2022吉比特高校GameJam.png)
+![2022吉比特高校GameJam](https://user-images.githubusercontent.com/55835505/212532423-efb62a32-7e64-44c9-8b93-7b7987eed721.png)
 
-![](F:\GitHub_Project\SampleReels\Picture\2022吉比特高校GameJam新手指南.png)
+![2022吉比特高校GameJam新手指南](https://user-images.githubusercontent.com/55835505/212532460-a5fc6c4b-94e4-4552-baf5-3394e92854d4.png)
 
-![](F:\GitHub_Project\SampleReels\Picture\2022吉比特高校GameJam优秀奖.png)
+![2022吉比特高校GameJam优秀奖](https://user-images.githubusercontent.com/55835505/212532470-73800327-c323-45a4-897f-15bff78ff4c5.png)
 
-#### 2023年1月11-1月12日 UGDP高校寒假实训作品
+### 2023年1月11-1月12日 UGDP高校寒假实训作品《救赎之路》
 
 - ps：这款游戏主程不是我，我只是负责了游戏设计和后面的地图和关卡搭建，以及项目整合和BUG修复，所以有很多东西和我一开始的设想并不一致，但这款游戏还是越玩越能让人上瘾。
 
@@ -55,14 +55,15 @@
 
 - 转校生不能在很短时间内融入集体，然后被孤立起来，导致转校生的自我封闭与自我救赎。
 
-![](F:\GitHub_Project\SampleReels\Picture\2023UDGP寒假实训48小时.png)
+![2023UDGP寒假实训48小时](https://user-images.githubusercontent.com/55835505/212532476-d1a68028-f591-44ba-abf8-50d7d73a7539.png)
 
-![](F:\GitHub_Project\SampleReels\Picture\2023UDGP寒假实训48小时1.png)
+![2023UDGP寒假实训48小时1](https://user-images.githubusercontent.com/55835505/212532479-542677a0-498b-4f35-9103-438a708f8f18.png)
 
-![](F:\GitHub_Project\SampleReels\Picture\2023UDGP寒假实训48小时3.png)
+![2023UDGP寒假实训48小时3](https://user-images.githubusercontent.com/55835505/212532487-3e77e5a1-f311-4d0e-bb7d-35f6fb715f7f.png)
 
-![](F:\GitHub_Project\SampleReels\Picture\2023UDGP寒假实训48小时2.png)
+![2023UDGP寒假实训48小时2](https://user-images.githubusercontent.com/55835505/212532493-5c23dcdf-ee96-4737-bcf3-4764d4cefff3.png)
 
 
+- 以上暂时为本人参加的两次的活动作品，都是菜鸟水平，希望我能在游戏开发的路上越走越远，越来越强，拥有更多属于自己的好作品。加油！
 
-- 以上暂时为本人参加的两次的活动作品，都是菜鸟水平，希望我能在游戏开发的路上越走越远，越来越强。加油！
+- 目前正在把学了半年的unity知识融会贯通，制作两款完全自己开发的游戏。
