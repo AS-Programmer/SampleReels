@@ -3,7 +3,7 @@
 
 ### 2022年9月 用C#的Winform写的坦克大战
 
-![2022年9月坦![2022年9月坦克大战1（C#）](https://user-images.githubusercontent.com/55835505/212533305-c83007e5-09dd-4e81-ae13-27a807e1ecaf.png)
+![2022年9月坦克大战（C#）](https://user-images.githubusercontent.com/55835505/212533351-2ee545a6-66d4-4820-9abc-e65d181dbcc0.png)
 
 ![2022年9月坦克大战1（C#）](https://user-images.githubusercontent.com/55835505/212533323-de1c1db0-f911-4d7c-baec-1013edc91324.png)
 
