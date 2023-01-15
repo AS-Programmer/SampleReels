@@ -25,7 +25,7 @@
 
   ​    勇者剥离自己的能力封印魔王，消耗自己的力量以拯救他人，最终以凡人之躯打败魔王，获得胜利。
 
-https://github.com/AS-Programmer/SampleReels/blob/main/Picture/2022%E5%90%89%E6%AF%94%E7%89%B9%E9%AB%98%E6%A0%A1GameJam.png
+![2022吉比特高校GameJam](https://user-images.githubusercontent.com/55835505/212532423-efb62a32-7e64-44c9-8b93-7b7987eed721.png)
 
 ![](F:\GitHub_Project\SampleReels\Picture\2022吉比特高校GameJam新手指南.png)
 
