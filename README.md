@@ -3,7 +3,11 @@
 
 ### 2022年9月 用C#的Winform写的坦克大战
 
+![2022年9月坦![2022年9月坦克大战1（C#）](https://user-images.githubusercontent.com/55835505/212533305-c83007e5-09dd-4e81-ae13-27a807e1ecaf.png)
 
+![2022年9月坦克大战1（C#）](https://user-images.githubusercontent.com/55835505/212533323-de1c1db0-f911-4d7c-baec-1013edc91324.png)
+
+![2022年9月坦克大战2（C#）](https://user-images.githubusercontent.com/55835505/212533313-e56e243a-801b-4f77-a3a3-0afa1d1ef5cb.png)
 
 ### 2022年10月吉比特国庆高校赛《来封印魔王吧！》
 
