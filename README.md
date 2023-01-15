@@ -1,7 +1,7 @@
 # SampleReels
 **这是本人参加的一些48小时GJ的作品合集**
 
-### 2022年10月吉比特国庆高校赛
+### 2022年10月吉比特国庆高校赛《来封印魔王吧！》
 
 - ps：这是本人在学习unity一个月后团队合作的完成度很高的第一款游戏，负责怪物的逻辑和部分地图关卡搭建
 
@@ -25,13 +25,13 @@
 
   ​    勇者剥离自己的能力封印魔王，消耗自己的力量以拯救他人，最终以凡人之躯打败魔王，获得胜利。
 
-![](F:\GitHub_Project\SampleReels\Picture\2022吉比特高校GameJam.png)
+https://github.com/AS-Programmer/SampleReels/blob/main/Picture/2022%E5%90%89%E6%AF%94%E7%89%B9%E9%AB%98%E6%A0%A1GameJam.png
 
 ![](F:\GitHub_Project\SampleReels\Picture\2022吉比特高校GameJam新手指南.png)
 
 ![](F:\GitHub_Project\SampleReels\Picture\2022吉比特高校GameJam优秀奖.png)
 
-#### 2023年1月11-1月12日 UGDP高校寒假实训作品
+#### 2023年1月11-1月12日 UGDP高校寒假实训作品《救赎之路》
 
 - ps：这款游戏主程不是我，我只是负责了游戏设计和后面的地图和关卡搭建，以及项目整合和BUG修复，所以有很多东西和我一开始的设想并不一致，但这款游戏还是越玩越能让人上瘾。
 
